@@ -16,6 +16,14 @@ In this workshop, you will work in small groups on a guided machine learning min
 - Continue to `notebooks/01_exploration.ipynb` to inspect and understand the dataset.
 - Finish with `notebooks/02_preprocessing_and_baseline.ipynb` to preprocess data and train a baseline model.
 
+## Run options
+
+- **Option 1 (recommended in class):** open notebooks in Google Colab.
+- **Option 2 (local Jupyter):** clone this project, activate `homl3`, run `jupyter notebook`, then open notebooks in your browser.
+- **Option 3 (Cursor + terminal):** activate `homl3`, launch Jupyter locally, and run the same notebooks.
+
+The notebooks include a startup cell that supports both Colab and local execution.
+
 ## Using an LLM
 
 You are allowed and encouraged to use an LLM to help with code ideas and debugging. Run code in small steps, read errors carefully, and discuss with your group what each part of the code does before moving on.
